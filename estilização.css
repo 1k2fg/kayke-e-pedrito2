@@ -17,6 +17,29 @@ padding:0;}
   
  .primeira-parte{
      background-image: linear-gradient(#424e61,#4ebfe9);
+     height:  500px;
+     color: white;
+     padding: 100px;
+     justify-content: center;
+     align-items: center;
+     margin: 0;
+ }
+ .escola{
+    padding: 15px 0;
+    font-size: 20px;
+ }
+ .primeiroparagrafro{
+    padding: 15px 0;
+ }
+ .segundoparagrafo{
+    padding: 15px 0;
+ }
+ .quemsomos{
+    padding: 24px 0;
+ }
+ .imagem{
+    height: 400px;
+    width: 400px;
  }
  .foto-estudante{
      width: 35%;
