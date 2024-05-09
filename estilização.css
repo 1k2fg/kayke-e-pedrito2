@@ -50,9 +50,13 @@ align-items: center;
 .imagemestudante{
     width: 15%;
 }
-.miraculous{
-    width: 10%;
+.miraculous.png{
+    width: 5%;
 }
 .icone{
     width: 15%;
+}
+.estudantes {
+    display: grid;
+    grid-template-columns: 20% 20%  20% 20% 20%;
 }
