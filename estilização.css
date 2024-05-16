@@ -50,13 +50,32 @@ align-items: center;
 .imagemestudante{
     width: 15%;
 }
-.miraculous.png{
-    width: 5%;
+.Animacao{
+    width: 35%;
 }
 .icone{
     width: 15%;
 }
 .estudantes {
-    display: grid;
-    grid-template-columns: 20% 20%  20% 20% 20%;
+   display: grid;
+   grid-template-columns: 20%;
+   justify-content:center;
 }
+.embaixo {
+    width: 10%;
+}
+.rodape {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color:seashell;
+    text-decoration:none;
+}
+a:hover{
+   color: salmon;
+   text-decoration:underline;
+}
+
